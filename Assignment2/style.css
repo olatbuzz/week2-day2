@@ -1,0 +1,27 @@
+.box{
+    background-color: black;
+    margin: auto;
+    width: 500px;
+    border-start-start-radius: 15px;
+    border-start-end-radius: 15px;
+    
+}
+li{
+    background-color:black;
+    margin: auto;
+    width: 486px;
+    display: block;
+    color: white;
+    list-style-type: none;
+    margin-left:-2.5em;
+}
+.net,.question{
+    background-color: grey;
+    margin-bottom: 3px;
+    padding: 7px;
+}
+ .net{
+    border-start-start-radius: 15px;
+    border-start-end-radius: 15px;
+
+}
